@@ -4,9 +4,10 @@
 🔗 **Live Demo:** https://aicontentvault.site
 
 ---
-Preview
-![AI Content Vault Preview](./assets/og-image.png)
+
 ## 📌 Overview
+
+![AI Content Vault Preview](./assets/og-image.png)
 
 AI Content Vault is a full-stack web application designed to solve a simple but common problem:
 
