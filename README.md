@@ -1,6 +1,5 @@
 # 🧠 AI Content Vault
-
-> An AI-powered personal content management platform that lets you save online content and find it later using natural-language descriptions.
+> 🔒 **Private Repository** — Source code is kept private; this repository provides the project's architecture, technical overview, and implementation details.
 
 🔗 **Live Demo:** https://aicontentvault.site
 
